@@ -1,0 +1,44 @@
+body {
+  background-image: url(bg_img.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  margin-left: 0;
+}
+
+.tagline {
+  color: white;
+  font-family: "San Francisco";
+  font-weight: bolder;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+  position: relative;
+  top: 350px;
+  margin-left: 170px;
+}
+
+.mobility {
+  color: white;
+  font-family: "San Francisco";
+  font-weight: bolder;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+  position: relative;
+  top: 370px;
+
+  width: 43%;
+}
+
+h3 {
+  width: auto;
+  text-align: center;
+}
+.soon{
+  color: white;
+  font-family: 'Alegreya SC', serif;
+  position: relative;
+  top: 500px;
+
+}
+.reveal{
+  font-size: 4em;
+  opacity: 0.5;
+}
