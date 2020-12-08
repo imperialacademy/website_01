@@ -13,9 +13,12 @@ body {
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
   position: relative;
   top: 350px;
-  margin-left: 170px;
+  width: 43%;
 }
-
+h2 {
+  width: auto;
+  text-align: center;
+}
 .mobility {
   color: white;
   font-family: "San Francisco";
