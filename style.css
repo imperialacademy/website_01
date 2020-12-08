@@ -12,7 +12,7 @@ body {
   font-weight: bolder;
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
   position: relative;
-  top: 350px;
+  top: 260px;
   width: 43%;
 }
 h2 {
@@ -25,7 +25,7 @@ h2 {
   font-weight: bolder;
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
   position: relative;
-  top: 370px;
+  top: 280px;
 
   width: 43%;
 }
@@ -38,7 +38,7 @@ h3 {
   color: white;
   font-family: 'Alegreya SC', serif;
   position: relative;
-  top: 500px;
+  top: 410px;
 
 }
 .reveal{
